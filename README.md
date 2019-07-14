@@ -7,7 +7,7 @@
 |3|Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10 |https://pastebin.com/YkXj2Avc | | | | |https://mega.nz/#!3tFkSAQI!5eCvgq7sPO1cW8WfQA9wakoBlRXMpMHNVbtL-lx60fQ |
 |4|Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d |https://pastebin.com/rPZ5uP10 | | | | |↑ |
 |5|Tổ chức danh sách liên kết |https://pastebin.com/QEuL8bbK | | | | | |
-|6|quick sort |https://pastebin.com/qJxXMxJx | | | |tạo random số | |
+|6|quick sort |https://pastebin.com/qJxXMxJx | | | |tạo_random_số | |
 |35| | | | | | | |
 |36|Bài 5| | | | | | |
 |15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) |  | _O(n)_ | Easy | | |
