@@ -3,7 +3,7 @@
 * 🔒: Có lưu ý trong bài tập
 
 ## Problems
-* [Tìm đường đi ngắn nhất-Dijika](https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0)
+* [Buổi 1](https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0)
 * [Buổi 2](./Problems/Buổi%202/OLP%20FIT%20SGU%202019_B2.pdf)
 * [Buổi 3](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B3.pdf)
 * [Buổi 4](./Problems/Buổi%204/OLP%20FIT%20SGU%202019_B4.pdf)
@@ -16,7 +16,7 @@
 ### BUỔI 1
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j| _O(n)_ | _O(n)_ | Easy | | |
+|1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j| _O(n)_ | _O(n)_ | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
 |2|Bài 2| [C++](./Solution/Buổi%201/bai_2.cpp)| _O(n*log(n))_ | _O(n)_ | Easy | | |
 |3|Bài 3| [C++](./Solution/Buổi%201/bai_3.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |4|Bài 4| [C++](./Solution/Buổi%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
