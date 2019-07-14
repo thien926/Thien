@@ -8,20 +8,8 @@
 |4|Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d |https://pastebin.com/rPZ5uP10 | | | | |↑ |
 |5|Tổ chức danh sách liên kết |https://pastebin.com/QEuL8bbK | | | | | |
 |6| | | | | | | |
-|8| | | | | | | |
-|9| | | | | | | |
-|10| | | | | | | |
-|11| | | | | | | |
-|12| | | | | | | |
-|13| | | | | | | |
-|14| | | | | | | |
-|16| | | | | | | |
-|17| | | | | | | |
-|28| | | | | | | |
-|32| | | | | | | |
-|33| | | | | | | |
-|34| | | | | | | |
 |35| | | | | | | |
 |36|Bài 5| | | | | | |
 |15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) |  | _O(n)_ | Easy | | |
 |7| | [C++](./Solution/Buổi%201/bai_7.cpp)| _O(n*sqrt(n))_ | _O(1)_ | Easy | | |
+|35| | | | | | | |
