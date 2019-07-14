@@ -2,8 +2,8 @@
 ## Problem
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
-|1|_Tìm đường đi ngắn nhất-Dijika_|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
-|2|Phân tích số thành tổng các số |https://pastebin.com/hCV1MgkZ | | | | | |
+|1|_Tìm_đường_đi_ngắn_nhất-Dijika_|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
+|2|Phân_tích_số_thành_tổng_các_số |https://pastebin.com/hCV1MgkZ | | | | | |
 |3|Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10 |https://pastebin.com/YkXj2Avc | | | | |https://mega.nz/#!3tFkSAQI!5eCvgq7sPO1cW8WfQA9wakoBlRXMpMHNVbtL-lx60fQ |
 |4|Số Lượng Số Từ a -> b Không Chia Hết Cho Bất Kỳ Số Nào Từ c -> d |https://pastebin.com/rPZ5uP10 | | | | |↑ |
 |5|Tổ chức danh sách liên kết |https://pastebin.com/QEuL8bbK | | | | | |
