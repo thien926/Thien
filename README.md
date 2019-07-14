@@ -1,7 +1,5 @@
 # thuat_toan
 ## Problem
-#Lưu ý:
--↑:như trên
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
 |1|_Tìm đường đi ngắn nhất-Dijika_|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
