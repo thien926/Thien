@@ -1,6 +1,6 @@
 # thuat_toan
 ## Problem
-| # | Title | Solution | Time | Space | Difficulty | Note | Tag|
+| # |     Title      | Solution | Time | Space | Difficulty | Note | Tag|
 |---| --------- | --- | --- | --- | --- | --- | ---------- |
 |1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
 |2|Phân tích số thành tổng các số |https://pastebin.com/hCV1MgkZ | | | | | |
