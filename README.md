@@ -1,7 +1,4 @@
 # thuat_toan
-* Solution của các bài tập Olympic FIT SGU
-* 🔒: Có lưu ý trong bài tập
-
 ## Problems
 * [Buổi 1](https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0)
 * [Buổi 2](./Problems/Buổi%202/OLP%20FIT%20SGU%202019_B2.pdf)
@@ -17,7 +14,7 @@
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j| _O(n)_ | _O(n)_ | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
-|2| | | | | | | |
+|2|Phân tích số thành tổng các số |https://pastebin.com/hCV1MgkZ | | | | | |
 |3| | | | | | | |
 |4| | | | | | | |
 |5| | | | | | | |
