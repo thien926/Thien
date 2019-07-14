@@ -17,32 +17,32 @@
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j| _O(n)_ | _O(n)_ | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
-|2|Bài 2| [C++](./Solution/Buổi%201/bai_2.cpp)| _O(n*log(n))_ | _O(n)_ | Easy | | |
-|3|Bài 3| [C++](./Solution/Buổi%201/bai_3.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|4|Bài 4| [C++](./Solution/Buổi%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|5|Bài 5| [C++](./Solution/Buổi%201/bai_5.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|6|Bài 6| [C++](./Solution/Buổi%201/bai_6.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|7|Bài 7| [C++](./Solution/Buổi%201/bai_7.cpp)| _O(n*sqrt(n))_ | _O(1)_ | Easy | | |
+|2| | | | | | | |
+|3| | | | | | | |
+|4| | | | | | | |
+|5| | | | | | | |
+|6| | | | | | | |
+|7| | [C++](./Solution/Buổi%201/bai_7.cpp)| _O(n*sqrt(n))_ | _O(1)_ | Easy | | |
 
 ### BUỔI 2
-| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
+| # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|8|Bài 1| [C++](./Solution/Buổi%202/bai_1(1).cpp) | _O(n*loglog(n))_ | _O(n)_ | Easy | | Sieve of Eratosthenes |
-|9|Bài 1| [C++](./Solution/Buổi%202/bai_1(2).cpp) | _O(n)_ | _O(n)_ | Easy | | Sieve of Atkin |
-|10|Bài 1| [C++](./Solution/Buổi%202/bai_1(3).cpp) | _O(n/ln(n)^4)_ | _O(n)_ | Medium | [🔒](./NoteTag/B2_1.md) | Lehmer's Formula |
-|11|Bài 2| [C++](./Solution/Buổi%202/bai_2.cpp) | _O(n*log(n))_ | _O(1)_ | Easy | | |
-|12|Bài 3| [C++](./Solution/Buổi%202/bai_3.cpp) | _O(log5(n))_ | _O(1)_ | Easy | [🔒](./NoteTag/B2_3.md) | |
-|13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | [🔒](./NoteTag/B2_4.md) | |
-|14|Bài 5| [C++](./Solution/Buổi%202/bai_5.cpp) | _O(log10(n))_ | _O(1)_ | Easy | | |
+|8| | | | | | | |
+|9| | | | | | | |
+|10| | | | | | | |
+|11| | | | | | | |
+|12| | | | | | | |
+|13| | | | | | | |
+|14| | | | | | | |
 |15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) | _O(log(log10(n))*log10(n)^2)_ | _O(n)_ | Easy | | |
 |16|Bài 7| | | | | | |
 |17|Bài 8| | | | | | |
 |18|Bài 9| | | | | | |
 
 ### BUỔI 3
-| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
+| # | Title | Solution | Time | Space | Difficulty | Note | Tag |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|19|Bài 1| [C++](./Solution/Buổi%203/bai_1.cpp) | _O(1)_ | _O(1)_ | Easy | | |
+|19|Bài 1| | | | | | | 
 |20|Bài 2| | | | | | |
 |21|Bài 3| | | | | | |
 |22|Bài 4| | | | | | |
@@ -63,8 +63,8 @@
 ### BUỔI 5
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|32|Bài 1| [C++](./Solution/Buổi%205/bai_1.cpp) | _O(n*log(n))_ | _O(n)_ | Easy | | |
-|33|Bài 2| [C++](./Solution/Buổi%205/bai_2.cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | |
-|34|Bài 3| [C++](./Solution/Buổi%205/bai_3.cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | |
+|32| | | | | | | |
+|33| | | | | | | |
+|34| | | | | | | |
 |35|Bài 4| [C++](./Solution/Buổi%205/bai_4.cpp) | _O(n)_ | _O(a^2)_ | Easy | | |
 |36|Bài 5| | | | | | |
