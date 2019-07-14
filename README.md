@@ -23,5 +23,5 @@
 |34| | | | | | | |
 |35| | | | | | | |
 |36|Bài 5| | | | | | |
-|15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) | _O(log(log10(n))*log10(n)^2)_ | _O(n)_ | Easy | | |
+|15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) |  | _O(n)_ | Easy | | |
 |7| | [C++](./Solution/Buổi%201/bai_7.cpp)| _O(n*sqrt(n))_ | _O(1)_ | Easy | | |
