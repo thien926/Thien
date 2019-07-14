@@ -2,7 +2,7 @@
 ## Problem
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | --- | --- |---| --- | --- | ---------- |
-|1|Tìm đường đi ngắn nhất-Dijika]|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
+|1|_Tìm đường đi ngắn nhất-Dijika_|https://pastebin.com/CwW1AH8j|  |  | Easy | |https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0 |
 |2|Phân tích số thành tổng các số |https://pastebin.com/hCV1MgkZ | | | | | |
 |3|Số Lượng Số Từ 1 -> n Không Chia Hết Cho Bất Kỳ Số Nào Từ 2 -> 10 |https://pastebin.com/YkXj2Avc | | | | |https://mega.nz/#!3tFkSAQI!5eCvgq7sPO1cW8WfQA9wakoBlRXMpMHNVbtL-lx60fQ |
 |4| | | | | | | |
