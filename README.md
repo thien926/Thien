@@ -3,7 +3,7 @@
 * 🔒: Có lưu ý trong bài tập
 
 ## Problems
-* [Tìm đường đi ngắn nhất-Dijika](./E:/github/Thuật%20toán%20Dijika-đã%20chuyển%20đổi.pdf)
+* [Tìm đường đi ngắn nhất-Dijika](./https://mega.nz/#!P0NFGawD!kFB2UEokdgpOtCINVWqegOhvkxc2veX1xODqSAqbIx0)
 * [Buổi 2](./Problems/Buổi%202/OLP%20FIT%20SGU%202019_B2.pdf)
 * [Buổi 3](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B3.pdf)
 * [Buổi 4](./Problems/Buổi%204/OLP%20FIT%20SGU%202019_B4.pdf)
