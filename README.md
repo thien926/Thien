@@ -3,6 +3,8 @@
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
 |1|_size()_ |https://pastebin.com/rvgzKhi0 và https://pastebin.com/9LtWdbuv | | | | | |
+|2|_empty()_ |https://pastebin.com/TJX9suak | | | | | |
+|3|_operator[]_ |https://pastebin.com/LdK6jGdB | | | | | |
 ## Problem
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
