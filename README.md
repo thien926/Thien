@@ -1,5 +1,8 @@
 # thuat_toan
 ## vector
+| # | Title | Solution | Time | Space | Difficulty | Note | Tag|
+|---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
+|1|_size()_ |https://pastebin.com/rvgzKhi0 và https://pastebin.com/9LtWdbuv | | | | | |
 ## Problem
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
