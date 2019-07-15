@@ -3,8 +3,14 @@
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
 |1|_size()_ |https://pastebin.com/rvgzKhi0 và https://pastebin.com/9LtWdbuv | | | | | |
-|2|_empty()_ |https://pastebin.com/TJX9suak | | | | | |
+|2|_empty()_ |https://pastebin.com/JJmbpeBV | | | | | |
 |3|_operator[]_ |https://pastebin.com/LdK6jGdB | | | | | |
+|4|_at (int i)_ |https://pastebin.com/2KvJMN2g | | | | | |
+|6|_back()_ |https://pastebin.com/BkEaqpLh | | | | | |
+|7|_push_back(const x)_ |https://pastebin.com/pkWEemuz | | | | | |
+|8|_pop_back()_ |https://pastebin.com/9WQBREZG | | | | | |
+|9|_insert_ |https://pastebin.com/iYpNMQ0G và | | | | | |
+|10|_Tổng hơp_ |https://motoo.in/tutorial-thu-vien-stl-trong-c-vector/ | | | | | |
 ## Problem
 | # | Title | Solution | Time | Space | Difficulty | Note | Tag|
 |---| ----- | ---------| ---- | ----- | ---------- | ---- | -- |
