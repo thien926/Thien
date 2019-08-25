@@ -1,0 +1,44 @@
+import java.util.*;
+
+public class Main{
+    public Scanner inp = new Scanner(System.in);
+    public String s;
+    public List <Integer> a;
+    public int[] b;
+    
+    public Main(){}
+    
+    public void nhap(){
+        s = inp.next();
+        int i;
+        a = new Vector<>();
+        for(i = 0; i < s.length(); i++) if(s.charAt(i) >=65 && s.charAt(i) <= 90) a.add((int)s.charAt(i));
+        if(a.size() == 0){
+            inp.close();
+            System.out.print(0);
+            System.exit(0);
+        }
+        b = new int[a.size()];
+        for(i = 0; i < b.length; i++) b[i] = 1;
+        inp.close();
+    }
+
+    public void solve(){
+        int i, j, max;
+        for(i = 0; i < b.length; i++){
+            for(j = i - 1; j >= 0; j--){
+                if(a.get(j) < a.get(i) && (b[i] < b[j] + 1)) b[i] = b[j] + 1;
+            }
+        }
+        max = b[0];
+        for(i = 1; i < b.length; i++) if(max < b[i]) max = b[i];
+        System.out.print(max);
+        a.clear();
+    }
+
+    public static void main(String[] args){
+        Main cc = new Main();
+        cc.nhap();
+        cc.solve();
+    }
+}
