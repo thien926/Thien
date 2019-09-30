@@ -69,7 +69,7 @@ string Add(string a, string b){
     res.erase(0, i);
     return res;
 }
-
+//Trừ 2 số nguyên
 string Subtract(string a, string b){
     // a == b thì xuất 0
     if(a == b) return "0";
@@ -125,7 +125,7 @@ string Mull(string a, char c){
     if(nho > 0) res = ToChar(nho) + res;
     return res;
 }
-
+// nhân 2 số lớn
 string Mul(string a, string b){
     // a và b khác dấu
     if(sign(a) != sign(b)){
@@ -149,7 +149,7 @@ string Mul(string a, string b){
     res.erase(0, i);
     return res;
 }
-
+//chia 2 số lớn
 string Div(string a, string b){
     string res = "";
     // a và b khác dấu
@@ -206,7 +206,7 @@ string Div(string a, string b){
     }
     return res;
 }
-
+//chia lấy dư 2 số lớn
 string Mod(string a, string b){
     return Subtract(a, Mul(Div(a, b), b));
 }
