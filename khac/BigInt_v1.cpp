@@ -1,4 +1,3 @@
-// Lưu ý bài tự code nên tự kiểm tra
 #include <iostream>
 #include <string>
 
@@ -69,7 +68,7 @@ string Add(string a, string b){
     res.erase(0, i);
     return res;
 }
-//Trừ 2 số nguyên
+
 string Subtract(string a, string b){
     // a == b thì xuất 0
     if(a == b) return "0";
@@ -125,7 +124,7 @@ string Mull(string a, char c){
     if(nho > 0) res = ToChar(nho) + res;
     return res;
 }
-// nhân 2 số lớn
+//nhân 2 số lớn
 string Mul(string a, string b){
     // a và b khác dấu
     if(sign(a) != sign(b)){
@@ -149,7 +148,7 @@ string Mul(string a, string b){
     res.erase(0, i);
     return res;
 }
-//chia 2 số lớn
+//chia lấy phần nguyên 2 số lớn
 string Div(string a, string b){
     string res = "";
     // a và b khác dấu
@@ -182,31 +181,43 @@ string Div(string a, string b){
     b1 = ToNum(b[0]);
     res = "";
     r = a.substr(0, b.length()-1);
-    for(i = b.length()-1; i < a.length(); i++) if(Compare(r, b) < 0) r = r + a[i];
-    else{
-        if(r.length() > b.length()) d = (ToNum(r[0])*10 + ToNum(r[1]))/b1;
-        else d = ToNum(r[0])/b1;
-        res1 = Subtract(r, Mull(b, ToChar(d)));
-        while(res1[0] == '-'){
-            d--;
-            res1 = Subtract(r, Mull(b, ToChar(d)));
-        } 
-        res = res + ToChar(d);
-        r = res1 + a[i];
-    }
-    if(Compare(r, b) >= 0){
-        if(r.length() > b.length()) d = (ToNum(r[0])*10 + ToNum(r[1]))/b1;
-        else d = ToNum(r[0])/b1;
-        res1 = Subtract(r, Mull(b, ToChar(d)));
-        while(res1[0] == '-'){
-            d--;
-            res1 = Subtract(r, Mull(b, ToChar(d)));
-        } 
-        res = res + ToChar(d);
+    for(i = b.length()-1; i < a.length(); i++){
+        r = r + a[i];
+        if(r[0] == '0'){
+            res = res + "0";
+            r = "";
+            continue;
+        }
+        if(r.length() == b.length()){
+            d = ToNum(r[0])/b1;
+            if(d != 0){
+                res1 = Subtract(r, Mull(b, ToChar(d)));
+                while(res1[0] == '-'){
+                    d--;
+                    res1 = Subtract(r, Mull(b, ToChar(d)));
+                }
+                res = res + ToChar(d);
+                if(res1 == "0") r = "";
+                else r = res1;
+            }
+        }
+        else if(r.length() > b.length()){
+            d = (ToNum(r[0])*10 + ToNum(r[1]))/b1;
+            if(d != 0){
+                res1 = Subtract(r, Mull(b, ToChar(d)));
+                while(res1[0] == '-'){
+                    d--;
+                    res1 = Subtract(r, Mull(b, ToChar(d)));
+                }
+                res = res + ToChar(d);
+                if(res1 == "0") r = "";
+                else r = res1;
+            }
+        }
     }
     return res;
 }
-//chia lấy dư 2 số lớn
+//chia dư 2 số lớn
 string Mod(string a, string b){
     return Subtract(a, Mul(Div(a, b), b));
 }
@@ -214,10 +225,6 @@ string Mod(string a, string b){
 int main(){
     string a, b;
     cin >> a >> b;
-//    cout << Add(a, b) << endl;
-//    cout << Subtract(a, b) << endl;
-//    cout << Mul(a, b) << endl;
-    cout << Div(a, b) << endl;
-    cout << Mod(a, b) << endl;
+    cout << Div(a, b);
     return 0;
 }
